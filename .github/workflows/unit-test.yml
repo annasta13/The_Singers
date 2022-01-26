@@ -1,4 +1,4 @@
-name: Android CI
+name: Unit Test
 
 on:
   push:
