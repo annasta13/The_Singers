@@ -1,0 +1,66 @@
+name: Android CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: set up JDK 11
+      uses: actions/setup-java@v2
+      with:
+        java-version: '11'
+        distribution: 'temurin'
+        cache: gradle
+
+    - name: Grant execute permission for gradlew
+      run: chmod +x gradlew
+    - name: Build with Gradle
+      run: ./gradlew build
+      
+  unit-test:
+    needs: [ build ]
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Unit Test
+      run: ./gradlew testDebugUnitTest
+    - name: Android Test Report
+      uses: asadmansr/android-test-report-action@v1.2.0
+      if: ${{ always() }} # IMPORTANT: run Android Test Report regardless
+
+  build-apk:
+    needs: [ build ]
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: set up JDK 11
+      uses: actions/setup-java@v2
+      with:
+        java-version: '11'
+        distribution: 'temurin'
+        cache: gradle
+
+    - name: Cache Gradle and wrapper
+      uses: actions/cache@v2
+      with:
+        path: |
+          ~/.gradle/caches
+          ~/.gradle/wrapper
+          key: cache-${{ runner.os }}-${{ matrix.jdk }}-gradle-${{ hashFiles('*/.gradle*') }}
+          restore-keys: |
+            ${{ runner.os }}-gradle-
+    - name: Build APK
+      run: bash ./gradlew assemble --stacktrace
+    - name: Upload APK
+      uses: actions/upload-artifact@v2
+      with:
+        name: The Singer App
+        path: app/build/outputs/apk/debug/th-singers-app.apk
