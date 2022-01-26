@@ -1,0 +1,3962 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "response": {
+    "artist": {
+      "alternate_names": [
+        "Marshall Bruce Mathers III",
+        "Marshall Mathers",
+        "Slim Shady"
+      ],
+      "api_path": "/artists/45",
+      "description": {
+        "dom": {
+          "tag": "root",
+          "children": [
+            {
+              "tag": "p",
+              "children": [
+                "A legendary hip-hop icon who started as an underground battle rapper in Detroit, Michigan ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/Eminem-marshall-mathers-lyrics",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/songs/282"
+                  },
+                  "children": [
+                    "Marshall “Eminem” Bruce Mathers III"
+                  ]
+                },
+                " (1972 – present) has developed a career full of controversy, wild swings, and some of the most noteworthy bars in the history of the genre."
+              ]
+            },
+            "",
+            {
+              "tag": "p",
+              "children": [
+                "Eminem has broken countless barriers, shifting and impacting the culture in several ways. In June 2017, ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "http://time.com/4801810/eminem-stan-oxford-english-dictionary/",
+                    "rel": "noopener nofollow"
+                  },
+                  "children": [
+                    "“Stan” was added into the ",
+                    {
+                      "tag": "em",
+                      "children": [
+                        "Oxford"
+                      ]
+                    },
+                    " Dictionary"
+                  ]
+                },
+                ", and in 2019, to the Merriam-Webster dictionary. He was the first rapper to win the ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://www.grammy.com/grammys/artists/eminem",
+                    "rel": "noopener nofollow"
+                  },
+                  "children": [
+                    "Grammy Award for Best Rap Album"
+                  ]
+                },
+                " for three consecutive albums. ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/Eminem-rap-god-lyrics",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/songs/235729"
+                  },
+                  "children": [
+                    "“Rap God”"
+                  ]
+                },
+                " set the Guinness World Record for most ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://www.huffingtonpost.com/2014/09/07/eminem-world-record-rap-god_n_5779914.html",
+                    "rel": "noopener nofollow"
+                  },
+                  "children": [
+                    "words in a song"
+                  ]
+                },
+                ". He was also the ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "http://www.stopthebreaks.com/gems/eminem-first-rapper-to-win-academy-award/",
+                    "rel": "noopener nofollow"
+                  },
+                  "children": [
+                    "first rapper to win an ",
+                    {
+                      "tag": "em",
+                      "children": [
+                        "Oscar"
+                      ]
+                    }
+                  ]
+                },
+                ". His albums ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/albums/Eminem/The-marshall-mathers-lp",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/albums/2873"
+                  },
+                  "children": [
+                    {
+                      "tag": "em",
+                      "children": [
+                        "The Marshall Mathers LP"
+                      ]
+                    }
+                  ]
+                },
+                " and ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/albums/Eminem/The-eminem-show",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/albums/2904"
+                  },
+                  "children": [
+                    {
+                      "tag": "em",
+                      "children": [
+                        "The Eminem Show"
+                      ]
+                    }
+                  ]
+                },
+                " became certified Diamond ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://www.riaa.com/gold-platinum/?tab_active=default-award&se=Eminem#search_section",
+                    "rel": "noopener nofollow"
+                  },
+                  "children": [
+                    "by the RIAA"
+                  ]
+                },
+                " in 2011, making him one of the few artists to have more than one Diamond album. This has helped him become the ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "http://www.imdb.com/list/ls074096217/",
+                    "rel": "noopener nofollow"
+                  },
+                  "children": [
+                    "highest selling hip-hop artist of all time"
+                  ]
+                },
+                ". In January 2020, with his 11th studio album ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/albums/Eminem/Music-to-be-murdered-by",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/albums/594809"
+                  },
+                  "children": [
+                    {
+                      "tag": "em",
+                      "children": [
+                        "Music to Be Murdered By"
+                      ]
+                    }
+                  ]
+                },
+                " debuting at #1 on the Billboard 200, Eminem became the ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://www.billboard.com/articles/business/chart-beat/8549077/eminem-scores-10th-no-1-album-billboard-200-chart-music-to-be-murdered-by",
+                    "rel": "noopener nofollow"
+                  },
+                  "children": [
+                    "first artist in history"
+                  ]
+                },
+                " to have 10 consecutive #1 debuts."
+              ]
+            },
+            "",
+            {
+              "tag": "p",
+              "children": [
+                "Produced and co-signed by ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/artists/Dr-dre",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/artists/123"
+                  },
+                  "children": [
+                    "Dr. Dre"
+                  ]
+                },
+                ", Em had an unprecedented run of success from 1999 up until 2003, releasing three well-reviewed multi-platinum albums, ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/Jay-z-renagade-lyrics",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/songs/78"
+                  },
+                  "children": [
+                    "stealing"
+                  ]
+                },
+                " ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/Dr-dre-forgot-about-dre-lyrics",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/songs/590"
+                  },
+                  "children": [
+                    "the"
+                  ]
+                },
+                " ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/Xzibit-dont-approach-me-lyrics",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/songs/1390"
+                  },
+                  "children": [
+                    "show"
+                  ]
+                },
+                " on countless collaborations, and even starred in a ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/albums/Soundtracks/Music-from-and-inspired-by-the-motion-picture-8-mile",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/albums/38300"
+                  },
+                  "children": [
+                    "hit movie"
+                  ]
+                },
+                ". However, it all came crashing down around 2004, when a string of problems ranging from drug dependence to depression to the tragic death of best friend ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/artists/Proof",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/artists/1333"
+                  },
+                  "children": [
+                    "Deshaun “Proof” Holton"
+                  ]
+                },
+                " in 2006 led to a long hiatus from music and a pair of what were, by his ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/12882663",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/referents/12882663"
+                  },
+                  "children": [
+                    "own admission"
+                  ]
+                },
+                ", sub-par albums."
+              ]
+            },
+            "",
+            {
+              "tag": "p",
+              "children": [
+                "This led to Em switching his style up from his previously shock-oriented lyrics to more emotional subject matters on the 2010s ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/albums/Eminem/Recovery",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/albums/2876"
+                  },
+                  "children": [
+                    {
+                      "tag": "em",
+                      "children": [
+                        "Recovery"
+                      ]
+                    }
+                  ]
+                },
+                ". This was a well-received and Grammy-award winning album, and he employed a very similar approach to 2013’s ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/albums/Eminem/The-marshall-mathers-lp-2",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/albums/43437"
+                  },
+                  "children": [
+                    {
+                      "tag": "em",
+                      "children": [
+                        "The Marshall Mathers LP 2"
+                      ]
+                    }
+                  ]
+                },
+                ", the well-received sequel to Em’s magnum opus."
+              ]
+            },
+            "",
+            {
+              "tag": "p",
+              "children": [
+                "Eminem invested himself farther than ever into this new emotional style with 2017’s  ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/albums/Eminem/Revival",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/albums/376740"
+                  },
+                  "children": [
+                    {
+                      "tag": "em",
+                      "children": [
+                        "Revival"
+                      ]
+                    }
+                  ]
+                },
+                ", which included lyrics about his place in hip-hop, as well as modern issues including President Donald Trump. Despite the serious direction, many were turned off to the album due to its heavy Rock-sampling, with many considering it one of, if not his weakest project."
+              ]
+            },
+            "",
+            {
+              "tag": "p",
+              "children": [
+                "Following the controversy surrounding ",
+                {
+                  "tag": "em",
+                  "children": [
+                    "Revival"
+                  ]
+                },
+                " and criticism of his modern-style, Eminem surprise-released  ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/albums/Eminem/Kamikaze",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/albums/457633"
+                  },
+                  "children": [
+                    {
+                      "tag": "em",
+                      "children": [
+                        "Kamikaze"
+                      ]
+                    }
+                  ]
+                },
+                " on 31 August 2018, which responded to critics of ",
+                {
+                  "tag": "em",
+                  "children": [
+                    "Revival"
+                  ]
+                },
+                " and his career overall. The album was received much better than his previous and went on to be the ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://www.forbes.com/sites/hughmcintyre/2019/03/14/these-were-the-10-betselling-albums-in-the-world-in-2018/#6314007445c0",
+                    "rel": "noopener nofollow"
+                  },
+                  "children": [
+                    "highest selling rap album of 2018"
+                  ]
+                },
+                "."
+              ]
+            },
+            "",
+            {
+              "tag": "p",
+              "children": [
+                "Once again by surprise, Eminem released ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/albums/Eminem/Music-to-be-murdered-by",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/albums/594809"
+                  },
+                  "children": [
+                    {
+                      "tag": "em",
+                      "children": [
+                        "Music to Be Murdered By"
+                      ]
+                    }
+                  ]
+                },
+                " on 17 January 2020, being Eminem’s first full-length project for the new decade. The album, similar to 2018’s ",
+                {
+                  "tag": "em",
+                  "children": [
+                    "Kamikaze"
+                  ]
+                },
+                ", includes fast-paced rapping and heavy rhyming. The album’s cover is a reference to ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/artists/Alfred-hitchcock",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/artists/74560"
+                  },
+                  "children": [
+                    "Sir Alfred Hitchcock"
+                  ]
+                },
+                ", and his 1958 debut album ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/albums/Alfred-hitchcock/Music-to-be-murdered-by",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/albums/367648"
+                  },
+                  "children": [
+                    {
+                      "tag": "em",
+                      "children": [
+                        "Music to Be Murdered By"
+                      ]
+                    }
+                  ]
+                },
+                ". In December 2020, Em released ",
+                {
+                  "tag": "em",
+                  "children": [
+                    "Music to Be Murdered By: Side B"
+                  ]
+                },
+                ". This deluxe edition includes 16 new tracks that were not on the original tracklist."
+              ]
+            },
+            "",
+            {
+              "tag": "p",
+              "children": [
+                "He has an extensive list of hit singles; some of the most popular include ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/Eminem-without-me-lyrics",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/songs/811"
+                  },
+                  "children": [
+                    "“Without Me,”"
+                  ]
+                },
+                " ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/Eminem-lose-yourself-lyrics",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/songs/207"
+                  },
+                  "children": [
+                    "“Lose Yourself,”"
+                  ]
+                },
+                " ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/Eminem-stan-lyrics",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/songs/772"
+                  },
+                  "children": [
+                    "“Stan,”"
+                  ]
+                },
+                " ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/Eminem-the-real-slim-shady-lyrics",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/songs/531"
+                  },
+                  "children": [
+                    "“The Real Slim Shady,”"
+                  ]
+                },
+                " ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/Eminem-mockingbird-lyrics",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/songs/1797"
+                  },
+                  "children": [
+                    "“Mockingbird,”"
+                  ]
+                },
+                " ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/Eminem-when-im-gone-lyrics",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/songs/1239"
+                  },
+                  "children": [
+                    "“When I’m Gone,”"
+                  ]
+                },
+                " ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/Eminem-love-the-way-you-lie-lyrics",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/songs/532"
+                  },
+                  "children": [
+                    "“Love the Way You Lie,”"
+                  ]
+                },
+                " ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/Eminem-not-afraid-lyrics",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/songs/463"
+                  },
+                  "children": [
+                    "“Not Afraid,”"
+                  ]
+                },
+                " ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/Eminem-the-monster-lyrics",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/songs/235732"
+                  },
+                  "children": [
+                    "“The Monster,”"
+                  ]
+                },
+                " ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/Eminem-rap-god-lyrics",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/songs/235729"
+                  },
+                  "children": [
+                    "“Rap God”"
+                  ]
+                },
+                " and ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/Eminem-river-lyrics",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/songs/3350680"
+                  },
+                  "children": [
+                    "“River.”"
+                  ]
+                }
+              ]
+            },
+            "",
+            {
+              "tag": "p",
+              "children": [
+                "Em is one half of ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/artists/Bad-meets-evil",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/artists/11571"
+                  },
+                  "children": [
+                    "Bad Meets Evil"
+                  ]
+                },
+                " with ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/artists/Royce-da-5-9",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/artists/471"
+                  },
+                  "children": [
+                    "Royce Da 5'9\""
+                  ]
+                },
+                ", and was a part of ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/artists/D12",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/artists/303"
+                  },
+                  "children": [
+                    "D12"
+                  ]
+                },
+                " with ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/artists/Mr-porter",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/artists/509"
+                  },
+                  "children": [
+                    "Mr. Porter"
+                  ]
+                },
+                ", ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/artists/Kuniva",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/artists/1366"
+                  },
+                  "children": [
+                    "Kuniva"
+                  ]
+                },
+                ", ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/artists/Swifty-mcvay",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/artists/1968"
+                  },
+                  "children": [
+                    "Swifty McVay"
+                  ]
+                },
+                ", and ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/artists/Bizarre",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/artists/1043"
+                  },
+                  "children": [
+                    "Bizarre"
+                  ]
+                },
+                ", and formerly with ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/artists/Proof",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/artists/1333"
+                  },
+                  "children": [
+                    "Proof"
+                  ]
+                },
+                ", ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/artists/Bugz",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/artists/4880"
+                  },
+                  "children": [
+                    "Bugz"
+                  ]
+                },
+                " & ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/artists/Fuzz-scoota",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/artists/2469"
+                  },
+                  "children": [
+                    "Fuzz Scoota"
+                  ]
+                },
+                "."
+              ]
+            },
+            "",
+            {
+              "tag": "p",
+              "children": [
+                "Eminem founded ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/search?q=shady%20records",
+                    "rel": "noopener"
+                  },
+                  "children": [
+                    "Shady Records"
+                  ]
+                },
+                " in 1999 after the success of ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/albums/Eminem/The-slim-shady-lp",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/albums/11166"
+                  },
+                  "children": [
+                    {
+                      "tag": "em",
+                      "children": [
+                        "The Slim Shady LP"
+                      ]
+                    }
+                  ]
+                },
+                " and served as the label’s president along with his manager, Paul Rosenberg."
+              ]
+            },
+            "",
+            {
+              "tag": "p",
+              "children": [
+                {
+                  "tag": "img",
+                  "attributes": {
+                    "src": "https://images.genius.com/35b4072f78235bd2d5dc5307fe34b100.750x1000x1.jpg",
+                    "alt": "",
+                    "width": 750,
+                    "height": 1000
+                  },
+                  "data": {
+                    "animated": "false",
+                    "thumbnail": {
+                      "src": "https://images.genius.com/35b4072f78235bd2d5dc5307fe34b100.300x400x1.jpg",
+                      "height": 400,
+                      "width": 300
+                    }
+                  }
+                }
+              ]
+            },
+            "",
+            {
+              "tag": "p",
+              "children": [
+                "As of February 8, 2018, Eminem’s ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/Eminem-lose-yourself-lyrics",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/songs/207"
+                  },
+                  "children": [
+                    "“Lose Yourself”"
+                  ]
+                },
+                " is officially certified diamond in the United States, meaning the song has sold over 10 million copies. It’s Eminem’s third diamond single after ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/Eminem-not-afraid-lyrics",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/songs/463"
+                  },
+                  "children": [
+                    "“Not Afraid”"
+                  ]
+                },
+                " and ",
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "https://genius.com/Eminem-love-the-way-you-lie-lyrics",
+                    "rel": "noopener"
+                  },
+                  "data": {
+                    "api_path": "/songs/532"
+                  },
+                  "children": [
+                    "“Love the Way You Lie.\""
+                  ]
+                },
+                " Eminem is now the first rapper and only the second artist to ever achieve this accolade."
+              ]
+            }
+          ]
+        }
+      },
+      "facebook_name": "Eminem",
+      "followers_count": 26197,
+      "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+      "id": 45,
+      "image_url": "https://images.genius.com/c674178296f3d65792a66f851fbc62fc.900x900x1.png",
+      "instagram_name": "eminem",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Eminem",
+      "translation_artist": false,
+      "twitter_name": "Eminem",
+      "url": "https://genius.com/artists/Eminem",
+      "current_user_metadata": {
+        "permissions": [
+          "follow",
+          "view_activity_stream",
+          "view_contribution_opportunities"
+        ],
+        "excluded_permissions": [
+          "edit",
+          "edit_images",
+          "edit_names",
+          "edit_anything",
+          "merge",
+          "sort_artist_songs",
+          "edit_translation_artist",
+          "see_short_id"
+        ],
+        "interactions": {
+          "following": false
+        }
+      },
+      "iq": 241831,
+      "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 7,
+        "annotator_login": "Maboo",
+        "api_path": "/referents/6925661",
+        "classification": "accepted",
+        "fragment": "Eminem",
+        "id": 6925661,
+        "is_description": true,
+        "path": "/6925661/Eminem/Eminem",
+        "range": {
+          "content": "Eminem"
+        },
+        "song_id": null,
+        "url": "https://genius.com/6925661/Eminem/Eminem",
+        "verified_annotator_ids": [],
+        "annotatable": {
+          "api_path": "/artists/45",
+          "context": null,
+          "id": 45,
+          "image_url": "https://images.genius.com/c674178296f3d65792a66f851fbc62fc.900x900x1.png",
+          "link_title": "Eminem",
+          "title": "Eminem",
+          "type": "Artist",
+          "url": "https://genius.com/artists/Eminem"
+        },
+        "annotations": [
+          {
+            "api_path": "/annotations/6925661",
+            "body": {
+              "dom": {
+                "tag": "root",
+                "children": [
+                  {
+                    "tag": "p",
+                    "children": [
+                      "A legendary hip-hop icon who started as an underground battle rapper in Detroit, Michigan ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/Eminem-marshall-mathers-lyrics",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/songs/282"
+                        },
+                        "children": [
+                          "Marshall “Eminem” Bruce Mathers III"
+                        ]
+                      },
+                      " (1972 – present) has developed a career full of controversy, wild swings, and some of the most noteworthy bars in the history of the genre."
+                    ]
+                  },
+                  "",
+                  {
+                    "tag": "p",
+                    "children": [
+                      "Eminem has broken countless barriers, shifting and impacting the culture in several ways. In June 2017, ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "http://time.com/4801810/eminem-stan-oxford-english-dictionary/",
+                          "rel": "noopener nofollow"
+                        },
+                        "children": [
+                          "“Stan” was added into the ",
+                          {
+                            "tag": "em",
+                            "children": [
+                              "Oxford"
+                            ]
+                          },
+                          " Dictionary"
+                        ]
+                      },
+                      ", and in 2019, to the Merriam-Webster dictionary. He was the first rapper to win the ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://www.grammy.com/grammys/artists/eminem",
+                          "rel": "noopener nofollow"
+                        },
+                        "children": [
+                          "Grammy Award for Best Rap Album"
+                        ]
+                      },
+                      " for three consecutive albums. ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/Eminem-rap-god-lyrics",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/songs/235729"
+                        },
+                        "children": [
+                          "“Rap God”"
+                        ]
+                      },
+                      " set the Guinness World Record for most ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://www.huffingtonpost.com/2014/09/07/eminem-world-record-rap-god_n_5779914.html",
+                          "rel": "noopener nofollow"
+                        },
+                        "children": [
+                          "words in a song"
+                        ]
+                      },
+                      ". He was also the ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "http://www.stopthebreaks.com/gems/eminem-first-rapper-to-win-academy-award/",
+                          "rel": "noopener nofollow"
+                        },
+                        "children": [
+                          "first rapper to win an ",
+                          {
+                            "tag": "em",
+                            "children": [
+                              "Oscar"
+                            ]
+                          }
+                        ]
+                      },
+                      ". His albums ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/albums/Eminem/The-marshall-mathers-lp",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/albums/2873"
+                        },
+                        "children": [
+                          {
+                            "tag": "em",
+                            "children": [
+                              "The Marshall Mathers LP"
+                            ]
+                          }
+                        ]
+                      },
+                      " and ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/albums/Eminem/The-eminem-show",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/albums/2904"
+                        },
+                        "children": [
+                          {
+                            "tag": "em",
+                            "children": [
+                              "The Eminem Show"
+                            ]
+                          }
+                        ]
+                      },
+                      " became certified Diamond ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://www.riaa.com/gold-platinum/?tab_active=default-award&se=Eminem#search_section",
+                          "rel": "noopener nofollow"
+                        },
+                        "children": [
+                          "by the RIAA"
+                        ]
+                      },
+                      " in 2011, making him one of the few artists to have more than one Diamond album. This has helped him become the ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "http://www.imdb.com/list/ls074096217/",
+                          "rel": "noopener nofollow"
+                        },
+                        "children": [
+                          "highest selling hip-hop artist of all time"
+                        ]
+                      },
+                      ". In January 2020, with his 11th studio album ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/albums/Eminem/Music-to-be-murdered-by",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/albums/594809"
+                        },
+                        "children": [
+                          {
+                            "tag": "em",
+                            "children": [
+                              "Music to Be Murdered By"
+                            ]
+                          }
+                        ]
+                      },
+                      " debuting at #1 on the Billboard 200, Eminem became the ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://www.billboard.com/articles/business/chart-beat/8549077/eminem-scores-10th-no-1-album-billboard-200-chart-music-to-be-murdered-by",
+                          "rel": "noopener nofollow"
+                        },
+                        "children": [
+                          "first artist in history"
+                        ]
+                      },
+                      " to have 10 consecutive #1 debuts."
+                    ]
+                  },
+                  "",
+                  {
+                    "tag": "p",
+                    "children": [
+                      "Produced and co-signed by ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/artists/Dr-dre",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/artists/123"
+                        },
+                        "children": [
+                          "Dr. Dre"
+                        ]
+                      },
+                      ", Em had an unprecedented run of success from 1999 up until 2003, releasing three well-reviewed multi-platinum albums, ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/Jay-z-renagade-lyrics",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/songs/78"
+                        },
+                        "children": [
+                          "stealing"
+                        ]
+                      },
+                      " ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/Dr-dre-forgot-about-dre-lyrics",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/songs/590"
+                        },
+                        "children": [
+                          "the"
+                        ]
+                      },
+                      " ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/Xzibit-dont-approach-me-lyrics",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/songs/1390"
+                        },
+                        "children": [
+                          "show"
+                        ]
+                      },
+                      " on countless collaborations, and even starred in a ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/albums/Soundtracks/Music-from-and-inspired-by-the-motion-picture-8-mile",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/albums/38300"
+                        },
+                        "children": [
+                          "hit movie"
+                        ]
+                      },
+                      ". However, it all came crashing down around 2004, when a string of problems ranging from drug dependence to depression to the tragic death of best friend ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/artists/Proof",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/artists/1333"
+                        },
+                        "children": [
+                          "Deshaun “Proof” Holton"
+                        ]
+                      },
+                      " in 2006 led to a long hiatus from music and a pair of what were, by his ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/12882663",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/referents/12882663"
+                        },
+                        "children": [
+                          "own admission"
+                        ]
+                      },
+                      ", sub-par albums."
+                    ]
+                  },
+                  "",
+                  {
+                    "tag": "p",
+                    "children": [
+                      "This led to Em switching his style up from his previously shock-oriented lyrics to more emotional subject matters on the 2010s ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/albums/Eminem/Recovery",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/albums/2876"
+                        },
+                        "children": [
+                          {
+                            "tag": "em",
+                            "children": [
+                              "Recovery"
+                            ]
+                          }
+                        ]
+                      },
+                      ". This was a well-received and Grammy-award winning album, and he employed a very similar approach to 2013’s ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/albums/Eminem/The-marshall-mathers-lp-2",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/albums/43437"
+                        },
+                        "children": [
+                          {
+                            "tag": "em",
+                            "children": [
+                              "The Marshall Mathers LP 2"
+                            ]
+                          }
+                        ]
+                      },
+                      ", the well-received sequel to Em’s magnum opus."
+                    ]
+                  },
+                  "",
+                  {
+                    "tag": "p",
+                    "children": [
+                      "Eminem invested himself farther than ever into this new emotional style with 2017’s  ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/albums/Eminem/Revival",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/albums/376740"
+                        },
+                        "children": [
+                          {
+                            "tag": "em",
+                            "children": [
+                              "Revival"
+                            ]
+                          }
+                        ]
+                      },
+                      ", which included lyrics about his place in hip-hop, as well as modern issues including President Donald Trump. Despite the serious direction, many were turned off to the album due to its heavy Rock-sampling, with many considering it one of, if not his weakest project."
+                    ]
+                  },
+                  "",
+                  {
+                    "tag": "p",
+                    "children": [
+                      "Following the controversy surrounding ",
+                      {
+                        "tag": "em",
+                        "children": [
+                          "Revival"
+                        ]
+                      },
+                      " and criticism of his modern-style, Eminem surprise-released  ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/albums/Eminem/Kamikaze",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/albums/457633"
+                        },
+                        "children": [
+                          {
+                            "tag": "em",
+                            "children": [
+                              "Kamikaze"
+                            ]
+                          }
+                        ]
+                      },
+                      " on 31 August 2018, which responded to critics of ",
+                      {
+                        "tag": "em",
+                        "children": [
+                          "Revival"
+                        ]
+                      },
+                      " and his career overall. The album was received much better than his previous and went on to be the ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://www.forbes.com/sites/hughmcintyre/2019/03/14/these-were-the-10-betselling-albums-in-the-world-in-2018/#6314007445c0",
+                          "rel": "noopener nofollow"
+                        },
+                        "children": [
+                          "highest selling rap album of 2018"
+                        ]
+                      },
+                      "."
+                    ]
+                  },
+                  "",
+                  {
+                    "tag": "p",
+                    "children": [
+                      "Once again by surprise, Eminem released ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/albums/Eminem/Music-to-be-murdered-by",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/albums/594809"
+                        },
+                        "children": [
+                          {
+                            "tag": "em",
+                            "children": [
+                              "Music to Be Murdered By"
+                            ]
+                          }
+                        ]
+                      },
+                      " on 17 January 2020, being Eminem’s first full-length project for the new decade. The album, similar to 2018’s ",
+                      {
+                        "tag": "em",
+                        "children": [
+                          "Kamikaze"
+                        ]
+                      },
+                      ", includes fast-paced rapping and heavy rhyming. The album’s cover is a reference to ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/artists/Alfred-hitchcock",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/artists/74560"
+                        },
+                        "children": [
+                          "Sir Alfred Hitchcock"
+                        ]
+                      },
+                      ", and his 1958 debut album ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/albums/Alfred-hitchcock/Music-to-be-murdered-by",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/albums/367648"
+                        },
+                        "children": [
+                          {
+                            "tag": "em",
+                            "children": [
+                              "Music to Be Murdered By"
+                            ]
+                          }
+                        ]
+                      },
+                      ". In December 2020, Em released ",
+                      {
+                        "tag": "em",
+                        "children": [
+                          "Music to Be Murdered By: Side B"
+                        ]
+                      },
+                      ". This deluxe edition includes 16 new tracks that were not on the original tracklist."
+                    ]
+                  },
+                  "",
+                  {
+                    "tag": "p",
+                    "children": [
+                      "He has an extensive list of hit singles; some of the most popular include ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/Eminem-without-me-lyrics",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/songs/811"
+                        },
+                        "children": [
+                          "“Without Me,”"
+                        ]
+                      },
+                      " ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/Eminem-lose-yourself-lyrics",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/songs/207"
+                        },
+                        "children": [
+                          "“Lose Yourself,”"
+                        ]
+                      },
+                      " ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/Eminem-stan-lyrics",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/songs/772"
+                        },
+                        "children": [
+                          "“Stan,”"
+                        ]
+                      },
+                      " ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/Eminem-the-real-slim-shady-lyrics",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/songs/531"
+                        },
+                        "children": [
+                          "“The Real Slim Shady,”"
+                        ]
+                      },
+                      " ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/Eminem-mockingbird-lyrics",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/songs/1797"
+                        },
+                        "children": [
+                          "“Mockingbird,”"
+                        ]
+                      },
+                      " ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/Eminem-when-im-gone-lyrics",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/songs/1239"
+                        },
+                        "children": [
+                          "“When I’m Gone,”"
+                        ]
+                      },
+                      " ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/Eminem-love-the-way-you-lie-lyrics",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/songs/532"
+                        },
+                        "children": [
+                          "“Love the Way You Lie,”"
+                        ]
+                      },
+                      " ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/Eminem-not-afraid-lyrics",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/songs/463"
+                        },
+                        "children": [
+                          "“Not Afraid,”"
+                        ]
+                      },
+                      " ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/Eminem-the-monster-lyrics",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/songs/235732"
+                        },
+                        "children": [
+                          "“The Monster,”"
+                        ]
+                      },
+                      " ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/Eminem-rap-god-lyrics",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/songs/235729"
+                        },
+                        "children": [
+                          "“Rap God”"
+                        ]
+                      },
+                      " and ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/Eminem-river-lyrics",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/songs/3350680"
+                        },
+                        "children": [
+                          "“River.”"
+                        ]
+                      }
+                    ]
+                  },
+                  "",
+                  {
+                    "tag": "p",
+                    "children": [
+                      "Em is one half of ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/artists/Bad-meets-evil",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/artists/11571"
+                        },
+                        "children": [
+                          "Bad Meets Evil"
+                        ]
+                      },
+                      " with ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/artists/Royce-da-5-9",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/artists/471"
+                        },
+                        "children": [
+                          "Royce Da 5'9\""
+                        ]
+                      },
+                      ", and was a part of ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/artists/D12",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/artists/303"
+                        },
+                        "children": [
+                          "D12"
+                        ]
+                      },
+                      " with ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/artists/Mr-porter",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/artists/509"
+                        },
+                        "children": [
+                          "Mr. Porter"
+                        ]
+                      },
+                      ", ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/artists/Kuniva",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/artists/1366"
+                        },
+                        "children": [
+                          "Kuniva"
+                        ]
+                      },
+                      ", ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/artists/Swifty-mcvay",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/artists/1968"
+                        },
+                        "children": [
+                          "Swifty McVay"
+                        ]
+                      },
+                      ", and ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/artists/Bizarre",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/artists/1043"
+                        },
+                        "children": [
+                          "Bizarre"
+                        ]
+                      },
+                      ", and formerly with ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/artists/Proof",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/artists/1333"
+                        },
+                        "children": [
+                          "Proof"
+                        ]
+                      },
+                      ", ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/artists/Bugz",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/artists/4880"
+                        },
+                        "children": [
+                          "Bugz"
+                        ]
+                      },
+                      " & ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/artists/Fuzz-scoota",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/artists/2469"
+                        },
+                        "children": [
+                          "Fuzz Scoota"
+                        ]
+                      },
+                      "."
+                    ]
+                  },
+                  "",
+                  {
+                    "tag": "p",
+                    "children": [
+                      "Eminem founded ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/search?q=shady%20records",
+                          "rel": "noopener"
+                        },
+                        "children": [
+                          "Shady Records"
+                        ]
+                      },
+                      " in 1999 after the success of ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/albums/Eminem/The-slim-shady-lp",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/albums/11166"
+                        },
+                        "children": [
+                          {
+                            "tag": "em",
+                            "children": [
+                              "The Slim Shady LP"
+                            ]
+                          }
+                        ]
+                      },
+                      " and served as the label’s president along with his manager, Paul Rosenberg."
+                    ]
+                  },
+                  "",
+                  {
+                    "tag": "p",
+                    "children": [
+                      {
+                        "tag": "img",
+                        "attributes": {
+                          "src": "https://images.genius.com/35b4072f78235bd2d5dc5307fe34b100.750x1000x1.jpg",
+                          "alt": "",
+                          "width": 750,
+                          "height": 1000
+                        },
+                        "data": {
+                          "animated": "false",
+                          "thumbnail": {
+                            "src": "https://images.genius.com/35b4072f78235bd2d5dc5307fe34b100.300x400x1.jpg",
+                            "height": 400,
+                            "width": 300
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  "",
+                  {
+                    "tag": "p",
+                    "children": [
+                      "As of February 8, 2018, Eminem’s ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/Eminem-lose-yourself-lyrics",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/songs/207"
+                        },
+                        "children": [
+                          "“Lose Yourself”"
+                        ]
+                      },
+                      " is officially certified diamond in the United States, meaning the song has sold over 10 million copies. It’s Eminem’s third diamond single after ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/Eminem-not-afraid-lyrics",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/songs/463"
+                        },
+                        "children": [
+                          "“Not Afraid”"
+                        ]
+                      },
+                      " and ",
+                      {
+                        "tag": "a",
+                        "attributes": {
+                          "href": "https://genius.com/Eminem-love-the-way-you-lie-lyrics",
+                          "rel": "noopener"
+                        },
+                        "data": {
+                          "api_path": "/songs/532"
+                        },
+                        "children": [
+                          "“Love the Way You Lie.\""
+                        ]
+                      },
+                      " Eminem is now the first rapper and only the second artist to ever achieve this accolade."
+                    ]
+                  }
+                ]
+              }
+            },
+            "comment_count": 11,
+            "community": true,
+            "custom_preview": null,
+            "has_voters": true,
+            "id": 6925661,
+            "pinned": false,
+            "share_url": "https://genius.com/6925661",
+            "source": null,
+            "state": "accepted",
+            "url": "https://genius.com/6925661/Eminem/Eminem",
+            "verified": false,
+            "votes_total": 2332,
+            "current_user_metadata": {
+              "permissions": [
+                "vote",
+                "propose_edit_to",
+                "create_comment"
+              ],
+              "excluded_permissions": [
+                "edit",
+                "cosign",
+                "uncosign",
+                "destroy",
+                "accept",
+                "reject",
+                "see_unreviewed",
+                "clear_votes",
+                "pin_to_profile",
+                "unpin_from_profile",
+                "update_source",
+                "edit_custom_preview"
+              ],
+              "interactions": {
+                "cosign": false,
+                "pyong": false,
+                "vote": null
+              },
+              "iq_by_action": {
+                "accept": {
+                  "primary": {
+                    "multiplier": 1,
+                    "base": 10.0,
+                    "applicable": true
+                  }
+                },
+                "reject": {
+                  "primary": {
+                    "multiplier": 1,
+                    "base": 2.0,
+                    "applicable": true
+                  }
+                },
+                "delete": {
+                  "primary": {
+                    "multiplier": 1,
+                    "base": 5.0,
+                    "applicable": true
+                  }
+                }
+              }
+            },
+            "authors": [
+              {
+                "attribution": 0.1659634317862166,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/7",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/FPUgkjhRQyqsg9SfDfhx.jpg",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/FPUgkjhRQyqsg9SfDfhx.jpg",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://s3.amazonaws.com/rapgenius/avatars/small/FPUgkjhRQyqsg9SfDfhx.jpg",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/FPUgkjhRQyqsg9SfDfhx.jpg",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/FPUgkjhRQyqsg9SfDfhx.jpg",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 7,
+                  "iq": 512562,
+                  "login": "Maboo",
+                  "name": "Maboo",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/Maboo",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.1420534458509142,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/3851063",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://assets.genius.com/images/default_avatar_16.png?1640036465",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://assets.genius.com/images/default_avatar_32.png?1640036465",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://assets.genius.com/images/default_avatar_100.png?1640036465",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://assets.genius.com/images/default_avatar_300.png?1640036465",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1640036465",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 3851063,
+                  "iq": 41651,
+                  "login": "gone_2ajhz_51bb",
+                  "name": "gone_2ajhz_51bb",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/gone_2ajhz_51bb",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.13924050632911392,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/416003",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.rapgenius.com/avatars/tiny/3ab1b2dae7d8492c23b02d2f8b53bb3a",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.rapgenius.com/avatars/thumb/3ab1b2dae7d8492c23b02d2f8b53bb3a",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.rapgenius.com/avatars/small/3ab1b2dae7d8492c23b02d2f8b53bb3a",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.rapgenius.com/avatars/medium/3ab1b2dae7d8492c23b02d2f8b53bb3a",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://images.rapgenius.com/avatars/medium/3ab1b2dae7d8492c23b02d2f8b53bb3a",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 416003,
+                  "iq": 3062,
+                  "login": "mbx123",
+                  "name": "mbx123",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/mbx123",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.1111111111111111,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/2431888",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/0d0d1266852467af771bb49be7e1d2da",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/0d0d1266852467af771bb49be7e1d2da",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/0d0d1266852467af771bb49be7e1d2da",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/0d0d1266852467af771bb49be7e1d2da",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://images.genius.com/avatars/medium/0d0d1266852467af771bb49be7e1d2da",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 2431888,
+                  "iq": 643,
+                  "login": "Overkill-MindSpaceApocalypse",
+                  "name": "Overkill-MindSpaceApocalypse",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/Overkill-MindSpaceApocalypse",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.07313642756680731,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/7702974",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/4dd19e162529f18e464ed16093be54d0",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/4dd19e162529f18e464ed16093be54d0",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/4dd19e162529f18e464ed16093be54d0",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/4dd19e162529f18e464ed16093be54d0",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/fe8n0efpjsh",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 7702974,
+                  "iq": 2074,
+                  "login": "StopBoi",
+                  "name": "StopBoi",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/StopBoi",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.05063291139240507,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/779",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/cda349f739be92c3a789e4533a43ae96",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/cda349f739be92c3a789e4533a43ae96",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/cda349f739be92c3a789e4533a43ae96",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/cda349f739be92c3a789e4533a43ae96",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/akaqtkoTwaXCIoMLqypU_image.jpeg",
+                  "human_readable_role_for_display": "Moderator",
+                  "id": 779,
+                  "iq": 431456,
+                  "login": "Heisenferg",
+                  "name": "Heisenferg",
+                  "role_for_display": "moderator",
+                  "url": "https://genius.com/Heisenferg",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.05063291139240507,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/3272791",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/7e14c2a51bbaa5c9e1107f02102fb8d5",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/7e14c2a51bbaa5c9e1107f02102fb8d5",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/7e14c2a51bbaa5c9e1107f02102fb8d5",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/7e14c2a51bbaa5c9e1107f02102fb8d5",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5sFLucU4Td6RnIlt08iY_giphy.gif",
+                  "human_readable_role_for_display": "Editor",
+                  "id": 3272791,
+                  "iq": 147537,
+                  "login": "Madkol",
+                  "name": "Madkol",
+                  "role_for_display": "editor",
+                  "url": "https://genius.com/Madkol",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.04219409282700422,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/8534",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/d662e609f7d8c03fae7781bed7834f58",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/d662e609f7d8c03fae7781bed7834f58",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/d662e609f7d8c03fae7781bed7834f58",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/d662e609f7d8c03fae7781bed7834f58",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://images.genius.com/82c5966f5fefe7dc9d58df6e709eba45.570x144x1.jpg",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 8534,
+                  "iq": 363741,
+                  "login": "Ezzo",
+                  "name": "Romi Ezzo",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/Ezzo",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.03938115330520394,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/2664110",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/e31c7f8eaaa371351c39b295c0bacd0c",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/e31c7f8eaaa371351c39b295c0bacd0c",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/e31c7f8eaaa371351c39b295c0bacd0c",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/e31c7f8eaaa371351c39b295c0bacd0c",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://images.genius.com/avatars/medium/e31c7f8eaaa371351c39b295c0bacd0c",
+                  "human_readable_role_for_display": "Editor",
+                  "id": 2664110,
+                  "iq": 10298,
+                  "login": "TusharRaj",
+                  "name": "TusharRaj",
+                  "role_for_display": "editor",
+                  "url": "https://genius.com/TusharRaj",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.035161744022503515,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/2066655",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.rapgenius.com/avatars/tiny/fe5fcfedbcdd90f36a5633013995f231",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.rapgenius.com/avatars/thumb/fe5fcfedbcdd90f36a5633013995f231",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.rapgenius.com/avatars/small/fe5fcfedbcdd90f36a5633013995f231",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.rapgenius.com/avatars/medium/fe5fcfedbcdd90f36a5633013995f231",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://images.rapgenius.com/avatars/medium/fe5fcfedbcdd90f36a5633013995f231",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 2066655,
+                  "iq": 1256,
+                  "login": "Mockavelli",
+                  "name": "Mockavelli",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/Mockavelli",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.02812939521800281,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/9356160",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/4b5ac290d3c350e38fa8c9286b73e872",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/4b5ac290d3c350e38fa8c9286b73e872",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/4b5ac290d3c350e38fa8c9286b73e872",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/4b5ac290d3c350e38fa8c9286b73e872",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://images.genius.com/avatars/medium/4b5ac290d3c350e38fa8c9286b73e872",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 9356160,
+                  "iq": 4010,
+                  "login": "LeeDevine",
+                  "name": "LeeDevine",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/LeeDevine",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.01687763713080169,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/4812062",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/ebf03de0fab18093baab92fa634c8e74",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/ebf03de0fab18093baab92fa634c8e74",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/ebf03de0fab18093baab92fa634c8e74",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/ebf03de0fab18093baab92fa634c8e74",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/d529v36hqkc",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 4812062,
+                  "iq": 1129,
+                  "login": "Darth4212",
+                  "name": "Darth4212",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/Darth4212",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.015471167369901546,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/7544",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.rapgenius.com/avatars/tiny/6a36ca6be14ea6e371b2ce41b68fb8fb",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.rapgenius.com/avatars/thumb/6a36ca6be14ea6e371b2ce41b68fb8fb",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.rapgenius.com/avatars/small/6a36ca6be14ea6e371b2ce41b68fb8fb",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.rapgenius.com/avatars/medium/6a36ca6be14ea6e371b2ce41b68fb8fb",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://images.rapgenius.com/avatars/medium/6a36ca6be14ea6e371b2ce41b68fb8fb",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 7544,
+                  "iq": 24707,
+                  "login": "J-Franks",
+                  "name": "J-Franks",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/J-Franks",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.009845288326300985,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/5312729",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/634ab11568c17ea6b1812b1b9c5e02b4",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/634ab11568c17ea6b1812b1b9c5e02b4",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/634ab11568c17ea6b1812b1b9c5e02b4",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/634ab11568c17ea6b1812b1b9c5e02b4",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/qxt6nwlzt2",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 5312729,
+                  "iq": 1978,
+                  "login": "immortalmortality",
+                  "name": "immortalmortality",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/immortalmortality",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.009845288326300985,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/4467363",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/8ce88ece6bb71b7279c7856432b44f41",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/8ce88ece6bb71b7279c7856432b44f41",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/8ce88ece6bb71b7279c7856432b44f41",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/8ce88ece6bb71b7279c7856432b44f41",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/f0jpaup7s2v",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 4467363,
+                  "iq": 3499,
+                  "login": "TheFirewalker10",
+                  "name": "TheFirewalker10",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/TheFirewalker10",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.007032348804500703,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/6939113",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/cce3ce2dc4db8a740ffba4bf07ddb8fb",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/cce3ce2dc4db8a740ffba4bf07ddb8fb",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/cce3ce2dc4db8a740ffba4bf07ddb8fb",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/cce3ce2dc4db8a740ffba4bf07ddb8fb",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://images.genius.com/avatars/medium/cce3ce2dc4db8a740ffba4bf07ddb8fb",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 6939113,
+                  "iq": 964,
+                  "login": "eirikfuhr",
+                  "name": "eirikfuhr",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/eirikfuhr",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.007032348804500703,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/4670790",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xt0wiqrnixn",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xt0wiqrnixn",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xt0wiqrnixn",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xt0wiqrnixn",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/dzvhj9vsozv",
+                  "human_readable_role_for_display": "Editor",
+                  "id": 4670790,
+                  "iq": 10765,
+                  "login": "KingLiiam",
+                  "name": "KingLiiam",
+                  "role_for_display": "editor",
+                  "url": "https://genius.com/KingLiiam",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.007032348804500703,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/6083808",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/6le1xdl783i",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/6le1xdl783i",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/6le1xdl783i",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/6le1xdl783i",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/8y5kyrs9d3w",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 6083808,
+                  "iq": 8815,
+                  "login": "IronDuck24",
+                  "name": "IronDuck24",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/IronDuck24",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.005625879043600563,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/314656",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/ab33dc8add78ecd36d99815f2505b7d9",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/ab33dc8add78ecd36d99815f2505b7d9",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/ab33dc8add78ecd36d99815f2505b7d9",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/ab33dc8add78ecd36d99815f2505b7d9",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://images.genius.com/avatars/medium/ab33dc8add78ecd36d99815f2505b7d9",
+                  "human_readable_role_for_display": "Editor",
+                  "id": 314656,
+                  "iq": 66721,
+                  "login": "MinorityFam",
+                  "name": "MinorityFam",
+                  "role_for_display": "editor",
+                  "url": "https://genius.com/MinorityFam",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.005625879043600563,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/8315100",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/f4dc1da1ccb558f844f078eb9cd0ff5d",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/f4dc1da1ccb558f844f078eb9cd0ff5d",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/f4dc1da1ccb558f844f078eb9cd0ff5d",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/f4dc1da1ccb558f844f078eb9cd0ff5d",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://images.genius.com/a60b7740774e4636062895d57d65c4c5.667x1000x1.jpg",
+                  "human_readable_role_for_display": "Moderator",
+                  "id": 8315100,
+                  "iq": 301533,
+                  "login": "glitzy",
+                  "name": "​glitzy",
+                  "role_for_display": "moderator",
+                  "url": "https://genius.com/glitzy",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.005625879043600563,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/1603328",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/773f9640b0b2e0ad1c6f7fedffb70a1d",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/773f9640b0b2e0ad1c6f7fedffb70a1d",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/773f9640b0b2e0ad1c6f7fedffb70a1d",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/773f9640b0b2e0ad1c6f7fedffb70a1d",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://images.genius.com/e372f40ee0a6d090ffd11b4c5518a5a9.1000x370x1.jpg",
+                  "human_readable_role_for_display": "Moderator",
+                  "id": 1603328,
+                  "iq": 393984,
+                  "login": "kingkillmonger",
+                  "name": "ʞ|açe|wœ|k",
+                  "role_for_display": "moderator",
+                  "url": "https://genius.com/kingkillmonger",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.0042194092827004225,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/6815146",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/6d60b119134e98cdce7ea1010aae0c9f",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/6d60b119134e98cdce7ea1010aae0c9f",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/6d60b119134e98cdce7ea1010aae0c9f",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/6d60b119134e98cdce7ea1010aae0c9f",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/x68ukhatx8h",
+                  "human_readable_role_for_display": "Editor",
+                  "id": 6815146,
+                  "iq": 43019,
+                  "login": "EricDoesEdits",
+                  "name": "EricDoesEdits",
+                  "role_for_display": "editor",
+                  "url": "https://genius.com/EricDoesEdits",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.0042194092827004225,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/7819661",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/03672929e4201af56a9856be15472eaa",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/03672929e4201af56a9856be15472eaa",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/03672929e4201af56a9856be15472eaa",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/03672929e4201af56a9856be15472eaa",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://images.genius.com/d69c146a11e17d1c081b3e8c80eec7cb.500x277x9.gif",
+                  "human_readable_role_for_display": "Editor",
+                  "id": 7819661,
+                  "iq": 39392,
+                  "login": "theillestmanalive05",
+                  "name": "How I Got Iller",
+                  "role_for_display": "editor",
+                  "url": "https://genius.com/theillestmanalive05",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.0028129395218002813,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/24376",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/c47b139037362cd8e666d3f660c76e56",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/c47b139037362cd8e666d3f660c76e56",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/c47b139037362cd8e666d3f660c76e56",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/c47b139037362cd8e666d3f660c76e56",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://images.genius.com/avatars/medium/c47b139037362cd8e666d3f660c76e56",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 24376,
+                  "iq": 51123,
+                  "login": "TroyW",
+                  "name": "Troy Womble",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/TroyW",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.0028129395218002813,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/6187467",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/20n2vwnp7ac",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/20n2vwnp7ac",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/20n2vwnp7ac",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/20n2vwnp7ac",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/c7xa7gq36yu",
+                  "human_readable_role_for_display": "Editor",
+                  "id": 6187467,
+                  "iq": 36793,
+                  "login": "TheSoulOfLimpBizkit",
+                  "name": "TheSoulOfLimpBizkit",
+                  "role_for_display": "editor",
+                  "url": "https://genius.com/TheSoulOfLimpBizkit",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.0028129395218002813,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/8150735",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/7ff4139d5900c66c8a0e321796e03642",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/7ff4139d5900c66c8a0e321796e03642",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/7ff4139d5900c66c8a0e321796e03642",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/7ff4139d5900c66c8a0e321796e03642",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5mb23iylxyy",
+                  "human_readable_role_for_display": "Editor",
+                  "id": 8150735,
+                  "iq": 6626,
+                  "login": "SamsterMUFC",
+                  "name": "SamsterMUFC",
+                  "role_for_display": "editor",
+                  "url": "https://genius.com/SamsterMUFC",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.0028129395218002813,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/10211238",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/56f0ca0250c2f61d6206cbbe3ebe2c3b",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/56f0ca0250c2f61d6206cbbe3ebe2c3b",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/56f0ca0250c2f61d6206cbbe3ebe2c3b",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/56f0ca0250c2f61d6206cbbe3ebe2c3b",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://images.genius.com/avatars/medium/56f0ca0250c2f61d6206cbbe3ebe2c3b",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 10211238,
+                  "iq": 574,
+                  "login": "AnuragPaudel",
+                  "name": "AnuragPaudel",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/AnuragPaudel",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.0014064697609001407,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/98074",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.rapgenius.com/avatars/tiny/0c69cbbcb523e6c3130ebe418cc04c80",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.rapgenius.com/avatars/thumb/0c69cbbcb523e6c3130ebe418cc04c80",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.rapgenius.com/avatars/small/0c69cbbcb523e6c3130ebe418cc04c80",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.rapgenius.com/avatars/medium/0c69cbbcb523e6c3130ebe418cc04c80",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://images.rapgenius.com/avatars/medium/0c69cbbcb523e6c3130ebe418cc04c80",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 98074,
+                  "iq": 19082,
+                  "login": "CaptPierce",
+                  "name": "CaptPierce",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/CaptPierce",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.0014064697609001407,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/5468884",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/02ff00c5e8681bd8c7e2e07a799fd881",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/02ff00c5e8681bd8c7e2e07a799fd881",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/02ff00c5e8681bd8c7e2e07a799fd881",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/02ff00c5e8681bd8c7e2e07a799fd881",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://images.genius.com/avatars/medium/02ff00c5e8681bd8c7e2e07a799fd881",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 5468884,
+                  "iq": 306,
+                  "login": "twoeightyse7en",
+                  "name": "twoeightyse7en",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/twoeightyse7en",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.0014064697609001407,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/324195",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/17e00fb07297aa33e4dc5ac63f2c0bc8",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/17e00fb07297aa33e4dc5ac63f2c0bc8",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/17e00fb07297aa33e4dc5ac63f2c0bc8",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/17e00fb07297aa33e4dc5ac63f2c0bc8",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cMIlPVvTWed7dnjN9jWS_black-white-thundercloud-lighting-strikes-storm-animated-gif.gif",
+                  "human_readable_role_for_display": "Editor",
+                  "id": 324195,
+                  "iq": 39063,
+                  "login": "Jeyz24",
+                  "name": "Jeyz24",
+                  "role_for_display": "editor",
+                  "url": "https://genius.com/Jeyz24",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.0014064697609001407,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/12873",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://s3.amazonaws.com/rapgenius/avatars/original/12873_kundalini.jpg?1303683042",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://s3.amazonaws.com/rapgenius/avatars/original/12873_kundalini.jpg?1303683042",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://s3.amazonaws.com/rapgenius/avatars/original/12873_kundalini.jpg?1303683042",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://s3.amazonaws.com/rapgenius/avatars/original/12873_kundalini.jpg?1303683042",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/p8mkpepzmt",
+                  "human_readable_role_for_display": "Editor",
+                  "id": 12873,
+                  "iq": 13590,
+                  "login": "brdy",
+                  "name": "brdy",
+                  "role_for_display": "editor",
+                  "url": "https://genius.com/brdy",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.0014064697609001407,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/5272347",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/4a528e53f3ccd27d3911d6e52c8bb1ec",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/4a528e53f3ccd27d3911d6e52c8bb1ec",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/4a528e53f3ccd27d3911d6e52c8bb1ec",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/4a528e53f3ccd27d3911d6e52c8bb1ec",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://images.genius.com/avatars/medium/4a528e53f3ccd27d3911d6e52c8bb1ec",
+                  "human_readable_role_for_display": "Editor",
+                  "id": 5272347,
+                  "iq": 12012,
+                  "login": "09ymmit07_FreeEwok",
+                  "name": "09ymmit07_FreeEwok",
+                  "role_for_display": "editor",
+                  "url": "https://genius.com/09ymmit07_FreeEwok",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.0014064697609001407,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/5077322",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/f6c51eeb13288750bd6dd58f854c5f12",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/f6c51eeb13288750bd6dd58f854c5f12",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/f6c51eeb13288750bd6dd58f854c5f12",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/f6c51eeb13288750bd6dd58f854c5f12",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://images.genius.com/d8c4727c568093ee9e0377761356d48b.1000x662x1.jpg",
+                  "human_readable_role_for_display": "Editor",
+                  "id": 5077322,
+                  "iq": 128820,
+                  "login": "sitzpinkler",
+                  "name": "Shashwat Bansal",
+                  "role_for_display": "editor",
+                  "url": "https://genius.com/sitzpinkler",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.0014064697609001407,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/8750588",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/8fa0a38414bbff86746ecb9c53c3b7b3",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/8fa0a38414bbff86746ecb9c53c3b7b3",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/8fa0a38414bbff86746ecb9c53c3b7b3",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/8fa0a38414bbff86746ecb9c53c3b7b3",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/om1c4nzb6tj",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 8750588,
+                  "iq": 14029,
+                  "login": "lilgnarly",
+                  "name": "lilgnarly",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/lilgnarly",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.0014064697609001407,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/11597620",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5kjjq33d7y",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5kjjq33d7y",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5kjjq33d7y",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5kjjq33d7y",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/u97isqv2k4",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 11597620,
+                  "iq": 5760,
+                  "login": "nichochill69",
+                  "name": "nichochill69",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/nichochill69",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.0014064697609001407,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/14680416",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/ebe653f3db28a01fb955b65e2fe1767a",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/ebe653f3db28a01fb955b65e2fe1767a",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/ebe653f3db28a01fb955b65e2fe1767a",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/ebe653f3db28a01fb955b65e2fe1767a",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://images.genius.com/avatars/medium/ebe653f3db28a01fb955b65e2fe1767a",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 14680416,
+                  "iq": 364,
+                  "login": "BackfischAnwalt",
+                  "name": "BackfischAnwalt",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/BackfischAnwalt",
+                  "current_user_metadata": {
+                    "permissions": [
+                      "follow"
+                    ],
+                    "excluded_permissions": [],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              }
+            ],
+            "cosigned_by": [],
+            "rejection_comment": null,
+            "verified_by": null
+          }
+        ]
+      },
+      "user": {
+        "api_path": "/users/1628085",
+        "avatar": {
+          "tiny": {
+            "url": "https://images.genius.com/avatars/tiny/9cfd434d8ecd5c224f4fa03675f37f47",
+            "bounding_box": {
+              "width": 16,
+              "height": 16
+            }
+          },
+          "thumb": {
+            "url": "https://images.genius.com/avatars/thumb/9cfd434d8ecd5c224f4fa03675f37f47",
+            "bounding_box": {
+              "width": 32,
+              "height": 32
+            }
+          },
+          "small": {
+            "url": "https://images.genius.com/avatars/small/9cfd434d8ecd5c224f4fa03675f37f47",
+            "bounding_box": {
+              "width": 100,
+              "height": 100
+            }
+          },
+          "medium": {
+            "url": "https://images.genius.com/avatars/medium/9cfd434d8ecd5c224f4fa03675f37f47",
+            "bounding_box": {
+              "width": 300,
+              "height": 400
+            }
+          }
+        },
+        "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+        "human_readable_role_for_display": "Verified Artist",
+        "id": 1628085,
+        "iq": 241831,
+        "login": "eminem",
+        "name": "Eminem",
+        "role_for_display": "verified_artist",
+        "url": "https://genius.com/eminem",
+        "current_user_metadata": {
+          "permissions": [
+            "follow"
+          ],
+          "excluded_permissions": [],
+          "interactions": {
+            "following": false
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Singers</string>
+    <string name="error_title">Oups, an error occurs</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="search_singer_song">Search singer or song</string>
+</resources>
