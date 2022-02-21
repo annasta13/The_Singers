@@ -6,6 +6,7 @@ import com.habileducation.thesingers.data.domain.model.Artist
 import com.habileducation.thesingers.data.domain.model.Song
 import com.habileducation.thesingers.data.domain.useCase.artistDetail.ArtistDetailUseCase
 import dagger.hilt.android.lifecycle.HiltViewModel
+import kotlinx.coroutines.CoroutineDispatcher
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.flow.onStart
@@ -18,7 +19,7 @@ import javax.inject.Inject
  */
 
 @HiltViewModel
-class ArtistDetailViewModel @Inject constructor(private val useCase: ArtistDetailUseCase) :
+class ArtistDetailViewModel @Inject constructor(private val useCase: ArtistDetailUseCase, private val dispatcher: CoroutineDispatcher) :
     ViewModel() {
     val state = MutableStateFlow(ArtistDetailState.init)
 
@@ -28,7 +29,7 @@ class ArtistDetailViewModel @Inject constructor(private val useCase: ArtistDetai
     }
 
     fun getArtistDetail() {
-        viewModelScope.launch {
+        viewModelScope.launch(dispatcher) {
             useCase.getArtistDetail.invoke(state.value.artistId)
                 .onStart { state.value = state.value.copy(isLoading = true, error = null) }
                 .collect {
@@ -50,14 +51,14 @@ class ArtistDetailViewModel @Inject constructor(private val useCase: ArtistDetai
     }
 
     private fun deleteArtistFavourite(artist:Artist) {
-        viewModelScope.launch {
+        viewModelScope.launch(dispatcher) {
             useCase.deleteArtistFavourite.invoke(artist = artist)
             state.value = state.value.copy(data = artist.copy(favourite = false))
         }
     }
 
     private fun insertArtistFavourite(artist:Artist) {
-        viewModelScope.launch {
+        viewModelScope.launch(dispatcher) {
             useCase.insertArtistFavourite.invoke(artist)
             state.value = state.value.copy(data = artist.copy(favourite = true))
         }

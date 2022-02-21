@@ -5,6 +5,7 @@ import androidx.lifecycle.viewModelScope
 import com.habileducation.thesingers.data.domain.model.Song
 import com.habileducation.thesingers.data.domain.useCase.songDetail.SongDetailUseCase
 import dagger.hilt.android.lifecycle.HiltViewModel
+import kotlinx.coroutines.CoroutineDispatcher
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.flow.onStart
@@ -17,7 +18,7 @@ import javax.inject.Inject
  */
 
 @HiltViewModel
-class SongDetailViewModel @Inject constructor(private val useCase: SongDetailUseCase) :
+class SongDetailViewModel @Inject constructor(private val useCase: SongDetailUseCase, private val dispatcher: CoroutineDispatcher) :
     ViewModel() {
     val state = MutableStateFlow(SongDetailState.init)
 
@@ -27,7 +28,7 @@ class SongDetailViewModel @Inject constructor(private val useCase: SongDetailUse
     }
 
     fun getSongDetail() {
-        viewModelScope.launch {
+        viewModelScope.launch(dispatcher) {
             useCase.getSongDetail.invoke(state.value.songId)
                 .onStart { state.value = state.value.copy(isLoading = true, error = null) }
                 .collect {
@@ -49,14 +50,14 @@ class SongDetailViewModel @Inject constructor(private val useCase: SongDetailUse
     }
 
     private fun deleteSongFavorite(song: Song) {
-        viewModelScope.launch {
+        viewModelScope.launch(dispatcher) {
             useCase.deleteSongFavourite.invoke(song = song)
             state.value = state.value.copy(data = song.copy(favourite = false))
         }
     }
 
     private fun insertSongFavorite(song: Song) {
-        viewModelScope.launch {
+        viewModelScope.launch(dispatcher) {
             useCase.insertSongFavourite.invoke(song)
             state.value = state.value.copy(data = song.copy(favourite = true))
         }

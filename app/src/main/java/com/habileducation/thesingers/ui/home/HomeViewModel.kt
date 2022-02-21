@@ -4,6 +4,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.habileducation.thesingers.data.domain.useCase.searchSong.GetSongSearched
 import dagger.hilt.android.lifecycle.HiltViewModel
+import kotlinx.coroutines.CoroutineDispatcher
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.flow.onStart
@@ -16,7 +17,10 @@ import javax.inject.Inject
  */
 
 @HiltViewModel
-class HomeViewModel @Inject constructor(private val getSongSearched: GetSongSearched) :
+class HomeViewModel @Inject constructor(
+    private val getSongSearched: GetSongSearched,
+    private val dispatcher: CoroutineDispatcher
+) :
     ViewModel() {
     val state = MutableStateFlow(HomeState.init)
 
@@ -25,7 +29,7 @@ class HomeViewModel @Inject constructor(private val getSongSearched: GetSongSear
     }
 
     fun initState() {
-        viewModelScope.launch {
+        viewModelScope.launch(dispatcher) {
             val key = if (state.value.searchKey.isEmpty()) "Eminem" else state.value.searchKey
             getSongSearched.invoke(key)
                 .onStart { state.value = state.value.copy(loading = true, error = null) }

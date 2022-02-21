@@ -4,6 +4,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.habileducation.thesingers.data.domain.useCase.artistFavourite.GetFavouriteArtist
 import dagger.hilt.android.lifecycle.HiltViewModel
+import kotlinx.coroutines.CoroutineDispatcher
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.flow.onStart
@@ -16,7 +17,10 @@ import javax.inject.Inject
  */
 
 @HiltViewModel
-class FavouriteArtistViewModel @Inject constructor(private val getFavouriteArtist: GetFavouriteArtist) :
+class FavouriteArtistViewModel @Inject constructor(
+    private val getFavouriteArtist: GetFavouriteArtist,
+    private val dispatcher: CoroutineDispatcher
+) :
     ViewModel() {
     val state = MutableStateFlow(FavoriteArtistState.init)
 
@@ -25,7 +29,7 @@ class FavouriteArtistViewModel @Inject constructor(private val getFavouriteArtis
     }
 
     fun initState() {
-        viewModelScope.launch {
+        viewModelScope.launch(dispatcher) {
             getFavouriteArtist.invoke()
                 .onStart { state.value = state.value.copy(loading = true, error = null) }
                 .collect {
